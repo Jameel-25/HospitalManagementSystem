@@ -29,7 +29,7 @@ Clone the repository:
 sh
 Copy code
 git clone 
-https://github.com/Jameel-25/hospital-management-system.git
+https://github.com/Jameel-25/HospitalManagementSystem.git
 Configure the database:
 
 
