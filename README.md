@@ -22,7 +22,8 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/hospital-management-system.git
+git clone 
+https://github.com/Jameel-25/hospital-management-system.git
 Configure the database:
 
 Create a new MySQL database named hospital.
@@ -31,6 +32,7 @@ Create the necessary tables using the following SQL scripts:
 
 sql
 Copy code
+
 CREATE TABLE patients (
   id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(50) NOT NULL,
